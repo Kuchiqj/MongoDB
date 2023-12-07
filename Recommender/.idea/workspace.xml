@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25eaef91-a915-45f4-818e-95859f6db313" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.3\apache-maven-3.6.3\localrep" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2QumKxO5O7TsMtHcpGe9GwiBbQs" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../businessServer/businessServer" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.073716015" />
+    <property name="project.structure.side.proportion" value="0.08473221" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA\Recommender\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OnlineRecommender">
+    <configuration name="DataLoader" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.qianfeng.dataload.DataLoader" />
+      <module name="Recommender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qianfeng.dataload.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OfflineRecommender" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.qianfeng.offline.OfflineRecommender" />
+      <module name="Recommender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qianfeng.offline.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlineRecommender" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.qianfeng.online.OnlineRecommender" />
+      <module name="Recommender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qianfeng.online.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticsRecommender (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.qingfeng.statics.StaticsRecommender" />
+      <module name="Recommender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qingfeng.statics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticsRecommender" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.qianfeng.statics.StaticsRecommender" />
+      <module name="Recommender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qianfeng.statics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OnlineRecommender" />
+        <item itemvalue="Application.OfflineRecommender" />
+        <item itemvalue="Application.StaticsRecommender" />
+        <item itemvalue="Application.DataLoader" />
+        <item itemvalue="Application.StaticsRecommender (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25eaef91-a915-45f4-818e-95859f6db313" name="Default Changelist" comment="" />
+      <created>1686211780595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686211780595</updated>
+      <workItem from="1686211782187" duration="931000" />
+      <workItem from="1686273229034" duration="9381000" />
+      <workItem from="1686292756597" duration="6692000" />
+      <workItem from="1686299854994" duration="135000" />
+      <workItem from="1686300004004" duration="1661000" />
+      <workItem from="1686302987574" duration="675000" />
+      <workItem from="1686398502617" duration="14000" />
+      <workItem from="1686402487172" duration="828000" />
+      <workItem from="1686405175309" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="171" key="#Project_Structure" timestamp="1686212119079">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="446" y="171" key="#Project_Structure/0.0.1707.1019@0.0.1707.1019" timestamp="1686212119079" />
+    <state x="309" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1686299259355">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="309" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1686299259355" />
+    <state x="587" y="252" key="FileChooserDialogImpl" timestamp="1686297661999">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="587" y="252" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1686297661999" />
+    <state width="1663" height="463" key="GridCell.Tab.0.bottom" timestamp="1686403318166">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="463" key="GridCell.Tab.0.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1686403318166" />
+    <state width="1663" height="463" key="GridCell.Tab.0.center" timestamp="1686403318166">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="463" key="GridCell.Tab.0.center/0.0.1707.1019@0.0.1707.1019" timestamp="1686403318166" />
+    <state width="1663" height="463" key="GridCell.Tab.0.left" timestamp="1686403318165">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="463" key="GridCell.Tab.0.left/0.0.1707.1019@0.0.1707.1019" timestamp="1686403318165" />
+    <state width="1663" height="463" key="GridCell.Tab.0.right" timestamp="1686403318166">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="463" key="GridCell.Tab.0.right/0.0.1707.1019@0.0.1707.1019" timestamp="1686403318166" />
+    <state width="1663" height="339" key="GridCell.Tab.1.bottom" timestamp="1686282692455">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="339" key="GridCell.Tab.1.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1686282692455" />
+    <state width="1663" height="339" key="GridCell.Tab.1.center" timestamp="1686282692455">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="339" key="GridCell.Tab.1.center/0.0.1707.1019@0.0.1707.1019" timestamp="1686282692455" />
+    <state width="1663" height="339" key="GridCell.Tab.1.left" timestamp="1686282692455">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="339" key="GridCell.Tab.1.left/0.0.1707.1019@0.0.1707.1019" timestamp="1686282692455" />
+    <state width="1663" height="339" key="GridCell.Tab.1.right" timestamp="1686282692455">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="339" key="GridCell.Tab.1.right/0.0.1707.1019@0.0.1707.1019" timestamp="1686282692455" />
+    <state x="357" y="155" key="SettingsEditor" timestamp="1686301631072">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="357" y="155" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1686301631072" />
+    <state x="550" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1686402486073">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="550" y="362" key="com.intellij.ide.util.TipDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1686402486073" />
+  </component>
+</project>
